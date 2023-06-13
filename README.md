@@ -1,2 +1,2 @@
 # MetaboFilter
-Metabolomics Untargeted Workflow
+Untargeted Metabolomics Workflow
